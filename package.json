@@ -1,0 +1,8 @@
+{
+  "name": "opaque-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bart-krakowski/opaque-types",
+  "author": "bart-krakowski",
+  "license": "MIT"
+}
